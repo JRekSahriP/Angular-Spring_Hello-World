@@ -1,0 +1,1 @@
+A basic project using Java Spring and Angular
